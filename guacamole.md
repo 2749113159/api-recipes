@@ -4,5 +4,5 @@
 * lime
 * salt
 ## Instructions
-Mash it all together
-Some changes
+* put one avocado in a bowl
+Mash it all together (with care)
